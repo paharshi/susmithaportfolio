@@ -1,0 +1,20 @@
+[
+  {
+    "role": "Application Engineer",
+    "organisation": "PENTAGON GLOBAL SOLUTIONS PVT LTD",
+    "startDate": "Nov, 2021",
+    "endDate": "Present",
+    "experiences": ["We are working on a Dashboard for data analytics using ReactJs.", "Reduced load times by 50%"]
+  },
+  {
+    "role": "UI Designer",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"]
+  },
+  {
+    "role": "SWE Intern",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ]
+  }
+]

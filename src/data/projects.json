@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/weatherapp.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React Js"],
+    "demo": "https://paharshi.github.io/weatherapp/",
+    "source": "https://github.com/paharshi/weatherapp"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/shoppingcartapp.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React"],
+    "demo": "https://paharshi.github.io/ShoppingCartApp/",
+    "source": "https://github.com/paharshi/ShoppingCartApp"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/foodsearchapp.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React"],
+    "demo": "https://paharshi.github.io/search-app/",
+    "source": "https://github.com/paharshi/search-app"
+  }
+]
